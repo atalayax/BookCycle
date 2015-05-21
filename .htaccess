@@ -1,0 +1,6 @@
+RewriteEngine on
+# RewriteCond %{HTTP_HOST} ^bookcycle.esy.es$ [NC,OR]
+# RewriteCond %{HTTP_HOST} ^www.bookcycle.esy.es$
+RewriteCond %{REQUEST_URI} !WebContent/
+RewriteRule (.*) /WebContent/$1 [L]
+

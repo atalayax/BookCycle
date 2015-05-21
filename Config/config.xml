@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<appSettings>
+        <setting key="domain" value=""/>
+		<setting key="geocodingServerKey" value=""/>
+        <setting key="environment" value=""/>
+	</appSettings>
+</config>

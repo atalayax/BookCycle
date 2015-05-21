@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<DBSettings>
+        <setting key="database" value=""/>
+        <setting key="host" value=""/>
+        <setting key="user" value=""/>
+        <setting key="password" value=""/>
+	</DBSettings>
+</config>
